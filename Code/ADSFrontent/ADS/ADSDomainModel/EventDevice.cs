@@ -12,7 +12,7 @@ namespace ADSDomainModel
         public string Description { get; set; }
         public DateTime Date { get; set; }
         public Location Location { get; set; }
-        public Device Location { get; set; }
+        public Device Device { get; set; }
         public string CustomerIdentification { get; set; }
     }
 }

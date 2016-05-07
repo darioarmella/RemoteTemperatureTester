@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ADSD")]
+[assembly: AssemblyTitle("GalileoServiceAgent")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ADSD")]
+[assembly: AssemblyProduct("GalileoServiceAgent")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ead4c512-891d-4ac3-bee5-a3a4beca78a4")]
+[assembly: Guid("e2defe29-6e65-4c84-b106-eaace934bc65")]
 
 // Version information for an assembly consists of the following four values:
 //

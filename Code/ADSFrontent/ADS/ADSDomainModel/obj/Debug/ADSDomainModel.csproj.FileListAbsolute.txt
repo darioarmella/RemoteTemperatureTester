@@ -1,0 +1,8 @@
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\RemoteTemperature.git\trunk\Code\ADSFrontent\ADS\ADSDomainModel\bin\Debug\ADSDomainModel.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\RemoteTemperature.git\trunk\Code\ADSFrontent\ADS\ADSDomainModel\bin\Debug\ADSDomainModel.pdb
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\RemoteTemperature.git\trunk\Code\ADSFrontent\ADS\ADSDomainModel\obj\Debug\ADSDomainModel.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\RemoteTemperature.git\trunk\Code\ADSFrontent\ADS\ADSDomainModel\obj\Debug\ADSDomainModel.pdb
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSDomainModel\bin\Debug\ADSDomainModel.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSDomainModel\bin\Debug\ADSDomainModel.pdb
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSDomainModel\obj\Debug\ADSDomainModel.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSDomainModel\obj\Debug\ADSDomainModel.pdb

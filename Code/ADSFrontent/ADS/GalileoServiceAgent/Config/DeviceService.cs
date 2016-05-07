@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ADSD
+namespace GalileoServiceAgent.Config
 {
-    public class Class1
+    public class DeviceService
     {
+        //public
     }
 }
