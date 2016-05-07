@@ -8,6 +8,6 @@ namespace GalileoServiceAgent.Config
 {
     public class ProviderConfig
     {
-        public static string Host = ConfigurationManager.AppSettings["DeviceHost"];
+        public static string Host = ConfigurationManager.AppSettings["DeviceHost"];//Host de la placa galileo
     }
 }
