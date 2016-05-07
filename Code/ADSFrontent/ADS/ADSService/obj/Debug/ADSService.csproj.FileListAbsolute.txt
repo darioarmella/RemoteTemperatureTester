@@ -1,0 +1,13 @@
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\ADSService.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\ADSService.pdb
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\ADSDomainModel.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\GalileoServiceAgent.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\System.Net.Http.Formatting.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\Newtonsoft.Json.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\ADSDomainModel.pdb
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\GalileoServiceAgent.pdb
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\System.Net.Http.Formatting.xml
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\bin\Debug\Newtonsoft.Json.xml
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\obj\Debug\ADSService.csprojResolveAssemblyReference.cache
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\obj\Debug\ADSService.dll
+H:\Facultad\Arq Soft\TP\ProyectoGalileoSensor\Repository\Code\ADSFrontent\ADS\ADSService\obj\Debug\ADSService.pdb

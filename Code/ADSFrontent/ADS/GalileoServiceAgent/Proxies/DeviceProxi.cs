@@ -12,7 +12,7 @@ namespace GalileoServiceAgent.Proxies
 {
     public class DeviceProxi
     {
-        public async Task Get()
+        public static async Task<EventDevice> Get()
         {
             using (var client = new HttpClient())
             {
@@ -25,7 +25,10 @@ namespace GalileoServiceAgent.Proxies
                 if (response.IsSuccessStatusCode)
                 {
                     EventDevice eventDevice = await response.Content.ReadAsAsync<EventDevice>();
+                    return eventDevice;
                 }
+
+                return new EventDevice();
             }
         }
     }

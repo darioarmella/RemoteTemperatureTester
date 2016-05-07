@@ -8,18 +8,18 @@ using System.Threading.Tasks;
 
 namespace GalileoServiceAgent.Service
 {
-    public class DeviceService
+    public class DeviceServiceAgent
     {
         private DeviceProxi _deviceProxi;
 
-        public DeviceService()
+        public DeviceServiceAgent()
         {
             _deviceProxi = new DeviceProxi();
         }
 
-        //public EventDevice Get()
-        //{
-        //    _deviceProxi.Get();
-        //}
+        public EventDevice Get()
+        {
+            return DeviceProxi.Get().Result;
+        }
     }
 }
